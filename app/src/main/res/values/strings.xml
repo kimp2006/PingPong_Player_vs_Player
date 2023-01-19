@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pong</string>
+    <string name="state">Ready</string>
+    <string name="mode_win">Player 1 win</string>
+    <string name="mode_lose">Player 2 win</string>
+    <string name="mode_pause">Paused</string>
+</resources>

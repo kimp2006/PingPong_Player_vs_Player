@@ -1,0 +1,12 @@
+<resources>
+<!--  Base app theme  -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--  Base  -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--  Pong  -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
